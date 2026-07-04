@@ -1,0 +1,32 @@
+# Maven build output
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Spring Boot
+*.pid
+*.lock
+
+# H2 DB files
+*.mv.db
+*.trace.db
+
+# Maven wrapper (optional ignore if not using wrapper)
+.mvn/wrapper/maven-wrapper.jar
+
+# Compiled classes
+*.class

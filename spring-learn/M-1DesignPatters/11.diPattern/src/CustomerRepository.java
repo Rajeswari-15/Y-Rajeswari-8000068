@@ -1,0 +1,3 @@
+interface CustomerRepository {
+    String findCustomer();
+}

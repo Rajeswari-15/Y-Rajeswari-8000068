@@ -1,0 +1,102 @@
+<<<<<<< HEAD
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# Maven Wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# Logs
+*.log
+
+# Compiled class files
+*.class
+
+# IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings
+.factorypath
+.springBeans
+.sts4-cache
+
+# VS Code
+.vscode/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+=======
+#############################
+# Maven
+#############################
+
+target/
+
+#############################
+# Java
+#############################
+
+*.class
+*.jar
+*.war
+*.ear
+
+#############################
+# Eclipse
+#############################
+
+.classpath
+.project
+.settings/
+
+#############################
+# IntelliJ IDEA
+#############################
+
+.idea/
+*.iml
+
+#############################
+# VS Code
+#############################
+
+.vscode/
+
+#############################
+# Logs
+#############################
+
+*.log
+
+#############################
+# Temporary Files
+#############################
+
+*.tmp
+*.temp
+
+#############################
+# Operating System
+#############################
+
+Thumbs.db
+.DS_Store
+>>>>>>> 0d6ff326fe01d258272d880e70edaed43fbf3211
